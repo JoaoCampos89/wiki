@@ -31,6 +31,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [RexRelay](https://www.rexrelay.com/)
 * [Set](https://www.setprotocol.com/)
 * [Settle Finance](https://settle.finance)
+* [VeriSafe](https://verisafe.io)
 
 ### List of relayers that will be (or are) using the 0x protocol
 
@@ -50,6 +51,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [Token Jar](https://tokenjar.io/)
 * [Tokenlon](https://tokenlon.token.im/)
 * [Fordex](https://www.fordex.co/)
+* [VeriSafe](https://dex.verisafe.io)
 
 ### List of 0x trade explorers
 
